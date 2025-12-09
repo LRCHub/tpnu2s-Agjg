@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "BOW AND ARROW",
+  "base_artist": "Kenshi Yonezu",
+  "createdAt": "2025-12-09T14:26:33.870941Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Crimson Bow and Arrow",
+      "artist": "Epica",
+      "has_synced": true,
+      "path": "select/01_Crimson_Bow_and_Arrow_Epica.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bread, Cheese, Bow and Arrow",
+      "artist": "Future of the Left",
+      "has_synced": false,
+      "path": "select/02_Bread,_Cheese,_Bow_and_Arrow_Future_of_the_Left.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bow And Arrow",
+      "artist": "Reuben And The Dark",
+      "has_synced": true,
+      "path": "select/03_Bow_And_Arrow_Reuben_And_The_Dark.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "紅蓮の弓矢 / Crimson Bow and Arrow",
+      "artist": "Epica",
+      "has_synced": true,
+      "path": "select/04_紅蓮の弓矢___Crimson_Bow_and_Arrow_Epica.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Crimson Bow and Arrow",
+      "artist": "Alive in the Dark",
+      "has_synced": true,
+      "path": "select/05_The_Crimson_Bow_and_Arrow_Alive_in_the_Dark.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bow and Arrow - Alternate Version",
+      "artist": "Reuben And The Dark",
+      "has_synced": true,
+      "path": "select/06_Bow_and_Arrow_-_Alternate_Version_Reuben_And_The_Dark.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bow And Arrow (Alternate Version)",
+      "artist": "Reuben and the Dark",
+      "has_synced": true,
+      "path": "select/07_Bow_And_Arrow_(Alternate_Version)_Reuben_and_the_Dark.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bow and Arrow",
+      "artist": "Neckless",
+      "has_synced": false,
+      "path": "select/08_Bow_and_Arrow_Neckless.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bow and Arrow",
+      "artist": "Kacey Johansing",
+      "has_synced": false,
+      "path": "select/09_Bow_and_Arrow_Kacey_Johansing.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Crimson Bow and Arrow",
+      "artist": "Epica",
+      "has_synced": true,
+      "path": "select/10_Crimson_Bow_and_Arrow_Epica.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bow And Arrow",
+      "artist": "Reuben And The Dark",
+      "has_synced": true,
+      "path": "select/11_Bow_And_Arrow_Reuben_And_The_Dark.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bow and Arrow",
+      "artist": "T-Mass",
+      "has_synced": false,
+      "path": "select/12_Bow_and_Arrow_T-Mass.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Bow And Arrow",
+      "artist": "Reuben And The Dark",
+      "has_synced": true,
+      "path": "select/13_Bow_And_Arrow_Reuben_And_The_Dark.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bow and Arrow",
+      "artist": "Julie Mintz",
+      "has_synced": true,
+      "path": "select/14_Bow_and_Arrow_Julie_Mintz.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Bow and Arrow",
+      "artist": "Ayla Schafer",
+      "has_synced": true,
+      "path": "select/15_Bow_and_Arrow_Ayla_Schafer.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "BOW AND ARROW",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/16_BOW_AND_ARROW_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "紅蓮の弓矢 / Crimson Bow And Arrow",
+      "artist": "Epica",
+      "has_synced": true,
+      "path": "select/17_紅蓮の弓矢___Crimson_Bow_And_Arrow_Epica.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BOW AND ARROW",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_BOW_AND_ARROW_米津玄師.txt"
+    }
+  ]
+}
